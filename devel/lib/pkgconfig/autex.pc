@@ -1,0 +1,8 @@
+prefix=/home/dhruv/vihaan_rover/devel
+
+Name: autex
+Description: Description of autex
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

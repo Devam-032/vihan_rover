@@ -1,0 +1,2 @@
+autex:autonomous_bot:base_anteena_tracker:cv_basics:nmea_navsat_driver:usb_cam:video_stream_opencv-master:web_video_server
+-DCATKIN_DEVEL_PREFIX=/home/dhruv/vihaan_rover/devel -DCMAKE_INSTALL_PREFIX=/home/dhruv/vihaan_rover/install -G Unix Makefiles

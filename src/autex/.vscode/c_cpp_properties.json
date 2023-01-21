@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/dhruv/vihaan_rover/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/dhruv/vihaan_rover/src/autex/include/**",
+        "/home/dhruv/vihaan_rover/src/autonomous_bot/include/**",
+        "/home/dhruv/vihaan_rover/src/cv_basics/include/**",
+        "/home/dhruv/vihaan_rover/src/nmea_navsat_driver/include/**",
+        "/home/dhruv/vihaan_rover/src/usb_cam/include/**",
+        "/home/dhruv/vihaan_rover/src/web_video_server/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

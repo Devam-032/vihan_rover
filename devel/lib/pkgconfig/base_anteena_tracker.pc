@@ -1,0 +1,8 @@
+prefix=/home/dhruv/vihaan_rover/devel
+
+Name: base_anteena_tracker
+Description: Description of base_anteena_tracker
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

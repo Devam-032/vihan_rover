@@ -1,0 +1,8 @@
+prefix=/home/dhruv/vihaan_rover/devel
+
+Name: autonomous_bot
+Description: Description of autonomous_bot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

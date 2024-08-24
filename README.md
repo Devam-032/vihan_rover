@@ -49,7 +49,7 @@ This project involved developing a robust and economical autonomous Mars Rover c
 3. **Launch the Rover's Navigation System**: Use the following command to start the rover's navigation system, including the arrow detection and obstacle avoidance components:
 
     ```bash
-    roslaunch mars_rover_navigation arrow_detection_navigation.launch
+    rosrun autex arrow_detection.py
     ```
 
 4. **Monitor Navigation and Heading**: Use RViz or another ROS-compatible visualization tool to monitor the rover's navigation and heading in real-time.

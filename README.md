@@ -2,7 +2,7 @@
 
 
 *The most economical and innovative Mars Rover at the International Rover Challenge 2023.*
-![Mars Rover Prototype]()
+![Mars Rover Prototype](Rover.jpg)
 ---
 
 ## Overview
